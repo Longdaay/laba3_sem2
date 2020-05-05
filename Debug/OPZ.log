@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Longday\source\repos\OPZ\Source.cpp(199,21): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(212,41): warning C4101:  ex: неиспользованная локальная переменная
+C:\Users\Longday\source\repos\OPZ\Source.cpp(222,38): warning C4101:  ex: неиспользованная локальная переменная
+C:\Users\Longday\source\repos\OPZ\Source.cpp(277,20): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(477,20): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(271): warning C4715:  Action: значение возвращается не при всех путях выполнения
+  OPZ.vcxproj -> C:\Users\Longday\source\repos\OPZ\Debug\OPZ.exe
