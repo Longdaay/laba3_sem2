@@ -1,8 +1,14 @@
 ﻿  Source.cpp
-C:\Users\Longday\source\repos\OPZ\Source.cpp(199,21): warning C4018:  <=: несоответствие типов со знаком и без знака
-C:\Users\Longday\source\repos\OPZ\Source.cpp(212,41): warning C4101:  ex: неиспользованная локальная переменная
-C:\Users\Longday\source\repos\OPZ\Source.cpp(222,38): warning C4101:  ex: неиспользованная локальная переменная
-C:\Users\Longday\source\repos\OPZ\Source.cpp(277,20): warning C4018:  <=: несоответствие типов со знаком и без знака
-C:\Users\Longday\source\repos\OPZ\Source.cpp(477,20): warning C4018:  <=: несоответствие типов со знаком и без знака
-C:\Users\Longday\source\repos\OPZ\Source.cpp(271): warning C4715:  Action: значение возвращается не при всех путях выполнения
+C:\Users\Longday\source\repos\OPZ\Source.cpp(50,20): warning C4091:  typedef : пропускается слева от "Node", когда ни одна переменная не объявлена
+C:\Users\Longday\source\repos\OPZ\Source.cpp(102,2): warning C4091:  typedef : пропускается слева от "exercise", когда ни одна переменная не объявлена
+C:\Users\Longday\source\repos\OPZ\Source.cpp(106,2): warning C4091:  typedef : пропускается слева от "Test", когда ни одна переменная не объявлена
+C:\Users\Longday\source\repos\OPZ\Source.cpp(273,20): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(319,20): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(350,38): warning C4101:  ex: неиспользованная локальная переменная
+C:\Users\Longday\source\repos\OPZ\Source.cpp(407,20): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(1258,21): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(1274,20): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\OPZ\Source.cpp(1892,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Longday\source\repos\OPZ\Source.cpp(403): warning C4715:  Action: значение возвращается не при всех путях выполнения
+C:\Users\Longday\source\repos\OPZ\Source.cpp(1044): warning C4715:  getCalcNotation: значение возвращается не при всех путях выполнения
   OPZ.vcxproj -> C:\Users\Longday\source\repos\OPZ\Debug\OPZ.exe
